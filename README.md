@@ -74,6 +74,18 @@ Some things to try:
    - Modify the `"onAutoForward"` attribute in your `portsAttributes` from `"notify"` to `"openBrowser"`.
    - Press <kbd>F1</kbd> and select the **Remote-Containers: Rebuild Container** or **Codespaces: Rebuild Container** command so the modifications are picked up.  
 
+5. **Notebooks**
+   - Open `notebook.ipynb`
+   - Click `Select Kernel` on the toolbar and select `Python 3.9`
+   - Click `Run All` on the toolbar to start the kernel and run all the cells
+   - Click `Variables` and explore the Variable View
+   - Click `Debug`, set breakpoints and run the cell to try debugging
+
+6. **Interactive Window**
+   - Open `app.py`
+   - Click the `Run Cell` Code Lens above line 6
+   - Run python code in real time on the Interactive Window
+
 ### More samples
 
 - [Tweeter App - Python and Django](https://github.com/Microsoft/python-sample-tweeterapp)
