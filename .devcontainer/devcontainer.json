@@ -36,6 +36,7 @@
 		"python.linting.pydocstylePath": "/usr/local/py-utils/bin/pydocstyle",
 		"python.linting.pylintPath": "/usr/local/py-utils/bin/pylint",
 		"python.insidersChannel": "daily",
+		"pylance.insidersChannel": "daily",
 		"jupyter.experimental.debugging": true,
 		"jupyter.enableNativeInteractiveWindow": true
 	},
